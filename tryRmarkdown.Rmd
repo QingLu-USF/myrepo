@@ -2,9 +2,8 @@
 title: "QLuTestRdoc"
 author: "Q. Lu"
 date: "4/17/2021"
-output: 
-  html_document: 
-    toc: yes
+output: github_document
+  
 ---
 
 ```{r setup, include=FALSE}
