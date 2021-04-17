@@ -1,3 +1,4 @@
 a=c(1,2,3)
 b=a*2
 plot(b,a)
+c=a*b
